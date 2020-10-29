@@ -1,0 +1,15 @@
+[submodule "formulas/php-formula"]
+	path = formulas/php-formula
+	url = https://github.com/saltstack-formulas/php-formula.git
+[submodule "formulas/epel-formula"]
+	path = formulas/epel-formula
+	url = https://github.com/saltstack-formulas/epel-formula.git
+[submodule "formulas/nginx-formula"]
+	path = formulas/nginx-formula
+	url = https://github.com/saltstack-formulas/nginx-formula.git
+[submodule "formulas/redis-formula"]
+	path = formulas/redis-formula
+	url = https://github.com/saltstack-formulas/redis-formula.git
+[submodule "formulas/letsencrypt-formula"]
+	path = formulas/letsencrypt-formula
+	url = https://github.com/saltstack-formulas/letsencrypt-formula.git

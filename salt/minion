@@ -1,0 +1,9 @@
+file_client: local
+file_roots:
+  base:
+    - /srv/salt
+    - /srv/formulas/php-formula
+    - /srv/formulas/epel-formula
+    - /srv/formulas/nginx-formula
+    - /srv/formulas/redis-formula
+    - /srv/formulas/letsencrypt-formula
